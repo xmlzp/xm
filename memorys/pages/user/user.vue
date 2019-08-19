@@ -1,5 +1,5 @@
 <template>
-	<view>w1</view>
+	<view>wxy</view>
 </template>
 
 <script>
