@@ -1,5 +1,5 @@
 <template>
-	<view>wxy</view>
+	<view>收到撒大声地</view>
 </template>
 
 <script>

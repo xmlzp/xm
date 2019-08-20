@@ -1,5 +1,5 @@
 <template>
-	<view>11</view>
+	<view>大锅饭打不过</view>
 </template>
 
 <script>
